@@ -53,10 +53,10 @@
 // console.log('price of Amount =', price);
 
 // alternative rule 
-let price = 1600;
-let isLeader = true;
-price = isLeader === true ?
-        price >= 1000 ?
-            price / 2 : 0
-        : price + 150;
-console.log('price of Amount =', price);
+// let price = 1600;
+// let isLeader = true;
+// price = isLeader === true ?
+//         price >= 1000 ?
+//             price / 2 : 0
+//         : price + 150;
+// console.log('price of Amount =', price);
